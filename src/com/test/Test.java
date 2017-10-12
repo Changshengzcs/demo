@@ -7,5 +7,7 @@ public class Test {
 		System.out.println("Hello GitHub");
 		System.out.println("Branch");
 	}
-
+	public static void print() {
+		System.out.println("test");
+	}
 }
